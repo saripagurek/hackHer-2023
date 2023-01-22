@@ -4,7 +4,7 @@ Queen's Women in Computing hackHer 2023 Project : GRAZE
 
 Category: Food Insecurity
 
-###First Place Category Winner
+**First Place Category Winner**
 
 Project Demo: https://www.youtube.com/watch?v=MOANJMs7EvE&ab_channel=ImogenLawford-Wickham
 
