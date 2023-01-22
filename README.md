@@ -14,7 +14,7 @@ To run Graze, in WebApp folder run
 then navigate to 'http://localhost:8081/' in a browser.
 
 Project Contributors:
-Sari Pagurek van Mossel
-Imogen Lawford-Wickham
-Masood Ahmed
+Sari Pagurek van Mossel, 
+Imogen Lawford-Wickham, 
+Masood Ahmed, 
 Ethney Stewart
